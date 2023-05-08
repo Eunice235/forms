@@ -1,2 +1,3 @@
 # forms
-html/javascript forms
+html forms
+how to have inputs in the html forms 
